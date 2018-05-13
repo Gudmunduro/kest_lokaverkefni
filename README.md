@@ -14,7 +14,7 @@
 
 5. Settum upp ssl certificate frá Let's Encrypt.
 
-6. Bjuggum til script til að flýta fyrir að setja upp vefsíður.
+6. [Bjuggum til script til að flýta fyrir að setja upp vefsíður](https://github.com/Gudmunduro/addsite-cmd)
 
 7. Settum upp ssh keys á servernum og settum PasswordAuthentication í no til að það væri bara hægt að nota ssh keys og PermitRootLogin í Root til að það væri ekki hægt að logga sig inn með root.
 
